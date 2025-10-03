@@ -1,9 +1,9 @@
 ## Hi there 👋
-I am a Software Engineer with 4+ years of Experience. I specialises in creating intuitive, high-performance digital experiences that blend seamless user interfaces with cutting-edge web technologies. With expertise in HTML, CSS, JavaScript, ReactJS and frameworks such as React Native, Angular, and Next.js.
+I am a Software Engineer with 4+ years of Experience. I specialises in creating intuitive, high-performance digital experiences that blend seamless user interfaces with cutting-edge web technologies. With expertise in HTML, CSS, JavaScript, ReactJS, NodeJS and frameworks such as Express, React Native, Angular, and Next.js.
 
 I am constantly adapting to new tools and technologies, ensuring that my skill set evolves in sync with industry trends. I thrive in collaborative environments, bridging the gap between technical and non-technical teams, ensuring clear communication, and delivering impactful results. Whether it’s leading technical discussions or working closely with leadership, I am committed to fostering an agile, forward-thinking culture that accelerates business growth.
 
-Portfolio :[https://sanjeev-portofolio](https://sanjeev-portfolio-self.vercel.app/)
+Portfolio :[https://sanjeev-portoflio](https://sanjeev-portfolio-self.vercel.app/)
 <!--
 **SanjeevAshoka/sanjeevashoka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
