@@ -17,7 +17,7 @@ Software Engineer specializing in building enterprise-grade design systems, mode
 
 ## Skills
 
-- **Frontend:** React, JavaScript (ES6+), TypeScript, Redux, Zustand, HTML5, CSS3, Styled-Components, SCSS, Flexbox, CSS Grid, Theming, Responsive Design
+- **Frontend:** React, JavaScript (ES6+), TypeScript, Redux, Zustand, HTML5, CSS3, Styled-Components, SCSS, Flexbox, CSS Grid, Theming, Responsive Design, Charts(AG-Grid, Apache-Echarts)
 - **Backend:** NodeJS, ExpressJS, Java, REST APIs, GraphQL, PostgreSQL, MongoDB
 - **Performance & Quality:** Chrome Web Vitals, Lighthouse Audits, Code-Splitting, Lazy Loading, Memoisation, WCAG 2.1, ARIA, Semantic HTML
 - **Testing & DevOps:** Jest, React Testing Library, Cypress, Webpack, Vite, Git (CI/CD), Docker, AWS, Auth (JWT, SSO)
