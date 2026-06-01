@@ -21,7 +21,7 @@ Software Engineer specializing in building enterprise-grade design systems, mode
 - **Backend:** NodeJS, ExpressJS, Java , SpringBoot, REST APIs, GraphQL, PostgreSQL, MongoDB
 - **Performance & Quality:** Chrome Web Vitals, Lighthouse Audits, Code-Splitting, Lazy Loading, Memoisation, WCAG 2.1, ARIA, Semantic HTML
 - **Testing & DevOps:** Jest, React Testing Library, Cypress, Webpack, Vite, Git (CI/CD), Docker, AWS, Auth (JWT, SSO)
-- **Design & AI:** Figma, Rapid UX Prototyping, Requirements Gathering, Stakeholder Collaboration, Gen-AI (Claude)
+- **Design, Collab & AI:** Figma, Rapid UX Prototyping(Stitch), Requirements Gathering, Stakeholder Collaboration, Gen-AI (Claude)
 
 ---
 
