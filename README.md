@@ -18,10 +18,10 @@ Software Engineer specializing in building enterprise-grade design systems, mode
 ## Skills
 
 - **Frontend:** React, JavaScript (ES6+), TypeScript, Redux, Zustand, HTML5, CSS3, Styled-Components, SCSS, Flexbox, CSS Grid, Theming, Responsive Design, Charts(AG-Grid, Apache-Echarts)
-- **Backend:** NodeJS, ExpressJS, Java , SpringBoot, REST APIs, GraphQL, PostgreSQL, MongoDB
-- **Performance & Quality:** Chrome Web Vitals, Lighthouse Audits, Code-Splitting, Lazy Loading, Memoisation, WCAG 2.1, ARIA, Semantic HTML
-- **Testing & DevOps:** Jest, React Testing Library, Cypress, Webpack, Vite, Git (CI/CD), Docker, AWS, Auth (JWT, SSO)
-- **Design, Collab & AI:** Figma, Rapid UX Prototyping(Stitch), Requirements Gathering, Stakeholder Collaboration, Gen-AI (Claude)
+- **Backend:** NodeJS, ExpressJS, Java , Spring Boot, REST APIs, GraphQL, PostgreSQL, MongoDB
+- **Performance & Quality:** Chrome Web Vitals, Lighthouse Audits, Code-Splitting, Lazy Loading, Caching(Memoisation, Browser Storage), WCAG 2.1, ARIA, Semantic HTML
+- **Testing & DevOps:** Unit(RTL, Jest), E2E Testing (Cypress, Playwright), Webpack, Vite, Git (CI/CD), Docker, AWS, Auth (JWT, SSO), Monitoring(Grafana, Apache Superset), Load Testing(autocannon, k6)
+- **Design, Collaboration & AI:** Figma, UX Prototyping(Stitch), Requirements Gathering, Stakeholder Collaboration, Gen-AI (Claude)
 
 ---
 
