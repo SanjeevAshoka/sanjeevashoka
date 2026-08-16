@@ -66,8 +66,8 @@ Software Engineer specializing in building enterprise-grade design systems, mode
 
 | Project | Description |
 |---------|-------------|
-| [**YuvaOrganic**](https://www.yuvaorganic.com/) | Full-stack web application — currently building and shipping live. |
 | **GenUi-Engine** *(Ongoing)* | Chatbot that generates on-Demand Dashboards(UI) for the Finance team. |
+| [**YuvaOrganic**](https://www.yuvaorganic.com/) | Full-stack web application — currently building and shipping live. |
 
 ---
 
