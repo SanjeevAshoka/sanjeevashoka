@@ -20,7 +20,7 @@ Software Engineer specializing in building enterprise-grade design systems, mode
 - **Frontend:** React, JavaScript (ES6+), TypeScript, Redux, Zustand, HTML5, CSS3, Styled-Components, SCSS, Flexbox, CSS Grid, Theming, Responsive Design, Charts(AG-Grid, Apache-Echarts)
 - **Backend:** NodeJS, ExpressJS, Java , Spring Boot, REST APIs, GraphQL, PostgreSQL, MongoDB
 - **Performance & Quality:** Chrome Web Vitals, Lighthouse Audits, Code-Splitting, Lazy Loading, Caching(Memoisation, Browser Storage), WCAG 2.1, ARIA, Semantic HTML
-- **Testing & DevOps:** Unit(RTL, Jest), E2E Testing (Cypress, Playwright), Webpack, Vite, Git (CI/CD), Docker, AWS, Auth (JWT, SSO), Monitoring(Grafana, Apache Superset), Load Testing(autocannon, k6)
+- **Testing & DevOps:** Unit(RTL, Jest), E2E Testing (Cypress, Playwright), Webpack, Vite, Git (CI/CD), Docker, AWS, Auth (JWT, SSO, OAuth), Monitoring(Grafana, Apache Superset), Load Testing(autocannon, k6)
 - **Design, Collaboration & AI:** Figma, UX Prototyping(Stitch), Requirements Gathering, Stakeholder Collaboration, Gen-AI (Claude)
 
 ---
@@ -67,7 +67,7 @@ Software Engineer specializing in building enterprise-grade design systems, mode
 | Project | Description |
 |---------|-------------|
 | [**YuvaOrganic**](https://www.yuvaorganic.com/) | Full-stack web application — currently building and shipping live. |
-| **Finance QueryMaster** *(Ongoing)* | Chatbot that auto-generates SQL queries with a graphical UI for the Finance team. |
+| **GenUi-Engine** *(Ongoing)* | Chatbot that generates on-Demand Dashboards(UI) for the Finance team. |
 
 ---
 
