@@ -21,7 +21,7 @@ Software Engineer specializing in building enterprise-grade design systems, mode
 - **Backend:** NodeJS, ExpressJS, Java , Spring Boot, REST APIs, GraphQL, PostgreSQL, MongoDB
 - **Performance & Quality:** Chrome Web Vitals, Lighthouse Audits, Code-Splitting, Lazy Loading, Caching(Memoisation, Browser Storage), WCAG 2.1, ARIA, Semantic HTML
 - **Testing & DevOps:** Unit(RTL, Jest), E2E Testing (Cypress, Playwright), Webpack, Vite, Git (CI/CD), Docker, AWS, Auth (JWT, SSO, OAuth), Monitoring(Grafana, Apache Superset), Load Testing(autocannon, k6)
-- **Design, Collaboration & AI:** Figma, UX Prototyping(Stitch), Requirements Gathering, Stakeholder Collaboration, Gen-AI (Claude)
+- **Design, Collaboration & AI:** Figma, UX Prototyping(Stitch), Requirements Gathering, Stakeholder Collaboration, Gen-AI (Claude), MCP
 
 ---
 
@@ -66,7 +66,7 @@ Software Engineer specializing in building enterprise-grade design systems, mode
 
 | Project | Description |
 |---------|-------------|
-| **GenUi-Engine** *(Ongoing)* | Chatbot that generates on-Demand Dashboards(UI) for the Finance team. |
+| **GenUi-Engine** *(Ongoing)* | Chatbot that generates on-Demand Dashboards(UI) using MCP server for the Finance team .|
 | [**YuvaOrganic**](https://www.yuvaorganic.com/) | Full-stack web application — currently building and shipping live. |
 
 ---
