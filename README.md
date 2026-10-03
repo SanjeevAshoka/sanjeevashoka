@@ -21,7 +21,7 @@ Software Engineer specializing in building enterprise-grade design systems, mode
 - **Backend:** NodeJS, ExpressJS, Java , Spring Boot, REST APIs, GraphQL, PostgreSQL, MongoDB
 - **Performance & Quality:** Chrome Web Vitals, Lighthouse Audits, Code-Splitting, Lazy Loading, Caching(Memoisation, Browser Storage), WCAG 2.1, ARIA, Semantic HTML
 - **Testing & DevOps:** Unit(RTL, Jest), E2E Testing (Cypress, Playwright), Webpack, Vite, Git (CI/CD), Docker, AWS, Auth (JWT, SSO, OAuth), Monitoring(Grafana, Apache Superset), Load Testing(autocannon, k6)
-- **Design, Collaboration & AI:** Figma, UX Prototyping(Stitch), Requirements Gathering, Stakeholder Collaboration, Gen-AI (Claude), MCP
+- **Design, Collaboration & AI:** Figma, Requirements Gathering, Stakeholder Collaboration, Gen-AI (Claude, OpenAi), MCP, RAG, Vector DBs(PineCone)
 
 ---
 
