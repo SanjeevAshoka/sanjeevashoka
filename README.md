@@ -1,6 +1,6 @@
 # Sanjeev Ashoka
 
-**Software Engineer** · 5 years · Frontend-heavy Full Stack
+**Senior Software Engineer** · 5 years · Frontend-heavy Full Stack
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sanjeev-js/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-black?style=flat&logo=vercel)](https://q3jyk64m.insforge.site/)
@@ -11,13 +11,13 @@
 
 ## Summary
 
-Software Engineer specializing in building enterprise-grade design systems, modernizing legacy applications, and architecting scalable React/TypeScript solutions. Proven ability to improve performance, leverage AI-powered tools, and collaborate cross-functionally in fast-paced environments. Quick to adopt new technologies and deliver immediate impact.
+Senior Software Engineer specialises in building enterprise-grade design systems, modernizing legacy applications, and architecting scalable React/TypeScript solutions. Proven ability to improve performance, leverage AI-powered tools, and collaborate cross-functionally in fast-paced environments. Quick to adopt new technologies and deliver immediate impact.
 
 ---
 
 ## Skills
 
-- **Frontend:** React, JavaScript (ES6+), TypeScript, Redux, Zustand, HTML5, CSS3, Styled-Components, SCSS, Flexbox, CSS Grid, Theming, Responsive Design, Charts(AG-Grid, Apache-Echarts)
+- **Frontend:** React, JavaScript (ES6+), TypeScript, Redux, Zustand, HTML5, CSS3, Styled-Components, SCSS, Flexbox, CSS Grid, Theming, Responsive Design, Charts(AG-Grid, Apache-Echarts), React-Native
 - **Backend:** NodeJS, ExpressJS, Java , Spring Boot, REST APIs, GraphQL, PostgreSQL, MongoDB
 - **Performance & Quality:** Chrome Web Vitals, Lighthouse Audits, Code-Splitting, Lazy Loading, Caching(Memoisation, Browser Storage), WCAG 2.1, ARIA, Semantic HTML
 - **Testing & DevOps:** Unit(RTL, Jest), E2E Testing (Cypress, Playwright), Webpack, Vite, Git (CI/CD), Docker, AWS, Auth (JWT, SSO, OAuth), Monitoring(Grafana, Apache Superset), Load Testing(autocannon, k6)
